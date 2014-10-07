@@ -1,0 +1,9 @@
+machine:
+  timezone:
+    Japan
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - ./deploy/test.bash
