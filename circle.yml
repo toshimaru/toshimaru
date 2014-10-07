@@ -2,6 +2,10 @@ machine:
   timezone:
     Japan
 
+test:
+  override:
+    - echo 'Hello, Toshimaru!'
+
 deployment:
   production:
     branch: master
