@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/toshimaru/toshimaru.png?style=badge)](https://circleci.com/gh/toshimaru/toshimaru)
+
 toshimaru
 =========
 
