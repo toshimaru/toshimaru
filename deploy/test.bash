@@ -5,9 +5,9 @@ bash --version
 
 v="ho ge"; echo ${v^^}
 
-var_lower="master"
-echo $var_lower
-
+echo $CIRCLE_BRANCH
 var_upper="BRANCH_${CIRCLE_BRANCH^^}"
 echo $var_upper
+
+echo ${!var_upper}
 
