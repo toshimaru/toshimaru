@@ -13,6 +13,11 @@ action "Add an issue to project" {
   }
 }
 
+workflow "issues 2" {
+  on = "issues"
+  resolves = ["Add an issue to user's project"]
+}
+
 action "Add an issue to user's project" {
   uses = "docker://masutaka/github-actions-all-in-one-project"
   secrets = ["GITHUB_TOKEN"]
