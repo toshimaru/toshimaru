@@ -1,4 +1,4 @@
-## I'm Toshimaru 🙃 🙃
+## I'm Toshimaru 🙃
 
 ### 📝 Blog
 
@@ -16,4 +16,5 @@
 
 ## Sponsorship
 
-<iframe src="https://github.com/sponsors/toshimaru/button" title="Sponsor toshimaru" height="35" width="107" style="border: 0;"></iframe>
+- [My GitHub Sponsorship](https://github.com/sponsors/toshimaru)
+- [My PayPal](https://www.paypal.me/t0shimaru)
