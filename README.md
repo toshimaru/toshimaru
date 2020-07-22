@@ -14,7 +14,7 @@
 - 📄 Yet another RailsDoc: [railsdoc/railsdoc.github.io](https://github.com/railsdoc/railsdoc.github.io)
 - ✏️ Jekyll-realated Project: [jekyll-toc](https://github.com/toshimaru/jekyll-toc), [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts), [jekyll-include_sass](https://github.com/toshimaru/jekyll-include_sass), [kramdown-amp](https://github.com/toshimaru/kramdown-amp)
 
-## Sponsorship
+## 💓 Sponsorship
 
 - [My GitHub Sponsorship](https://github.com/sponsors/toshimaru)
 - [My PayPal](https://www.paypal.me/t0shimaru)
